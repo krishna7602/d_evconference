@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/d_evconference/static/css/main.f653c17d.css",
+    "main.js": "/d_evconference/static/js/main.a9b85775.js",
+    "static/js/787.d4aba7ab.chunk.js": "/d_evconference/static/js/787.d4aba7ab.chunk.js",
+    "static/media/nitjmainbuilding.jpg": "/d_evconference/static/media/nitjmainbuilding.55a918a0680204f5cf4d.jpg",
+    "index.html": "/d_evconference/index.html",
+    "main.f653c17d.css.map": "/d_evconference/static/css/main.f653c17d.css.map",
+    "main.a9b85775.js.map": "/d_evconference/static/js/main.a9b85775.js.map",
+    "787.d4aba7ab.chunk.js.map": "/d_evconference/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f653c17d.css",
+    "static/js/main.a9b85775.js"
+  ]
+}
